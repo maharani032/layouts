@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Project</string>
+    <string name="jenis_kerusakan">Jenis Kerusakan</string>
+    <string name="elektrika">Elektrika</string>
+    <string name="status">status</string>
+    <string name="feb_2022_8">08 Feb 2022, 08:27</string>
+    <string name="selesai">Selesai</string>
+    <string name="no_pesanan">No. Pesanan : PS32342545634523E1B</string>
+    <string name="approval">Approval</string>
+    <string name="feb_2022_09">09 Feb 2022,\n19:27</string>
+    <string name="lokasi">Lokasi</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet amet, lorem ipsum\ndlor sit amet amet, Lorem ipsum.\n</string>
+    <string name="urgensi">Urgensi</string>
+    <string name="rendah">Rendah</string>
+    <string name="photo">Photo</string>
+    <string name="update_photo_perbaikan">Update Photo Perbaikan</string>
+    <string name="komplain">KOMPLAIN</string>
+    <string name="terima">terima</string>
+    <string name="goback">goback</string>
+    <string name="photoimage">photoImage</string>
+</resources>
